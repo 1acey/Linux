@@ -1,4 +1,4 @@
-#!/bin/sh
+#!/bin/bash
 #Programe:
 #	Experiments1:file establish and keyboard input
 #Function:
