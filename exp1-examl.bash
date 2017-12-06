@@ -1,8 +1,8 @@
 #!/bin/bash
-#Programe:
+#Program:
 #	Experiments1:file establish and keyboard input
 #Function:
-#	get user's input and redirect it to another file
+#	Get user's input and redirect it to another file
 #History:
 #2017/11/29 1ance First release
 
