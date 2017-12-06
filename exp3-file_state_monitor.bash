@@ -1,10 +1,16 @@
 #!/bin/bash
 #Program:
-#	Exp3:File State Query
+#	Experiment3:File State Query
 #Function:
 #	Dynamically monitor specified file's state. when the size of file has changed, output message and go on monitoring. When the times of changes or times of non-changes has reached a threshold, output message and exit
 #History:
 #2017/11/29	1ance	First release
+
+if [ $# != 0 ]
+then
+	echo "Usage: file_state_monitor"
+	exit
+fi
 
 filename=""
 clear
