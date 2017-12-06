@@ -2,7 +2,9 @@
 #Program:
 #	Experiment3:File State Query
 #Function:
-#	Dynamically monitor specified file's state. when the size of file has changed, output message and go on monitoring. When the times of changes or times of non-changes has reached a threshold, output message and exit
+#	Dynamically monitor specified file's state. When the size of file has changed, output message
+# and go on monitoring. When the times of changes or times of non-changes has reached a threshold,
+# output message and exit
 #History:
 #2017/11/29	1ance	First release
 
