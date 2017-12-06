@@ -1,6 +1,8 @@
 #!/bin/bash
 #Program:
 #       Experiment2: User Login Monitor
+#Function:
+#       Determine one specified user if he logs on or not. If he logs on print message and exit, otherwise, wait him to log on.
 #History:
 #2017/11/29 1ance First release
 
