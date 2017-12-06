@@ -1,4 +1,4 @@
-#!/bin/sh
+#!/bin/bash
 #Program:
 #	Exp3:File State Query
 #Function:
